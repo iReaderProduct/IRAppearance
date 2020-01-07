@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - IRAppearance (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - IRAppearance (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  IRAppearance:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  IRAppearance: ef93bcbc9f7f8321267d62449aee49932d92d50e
+
+PODFILE CHECKSUM: 169da4bcf21d5e3f2193fe3b0a931527bfcde6fa
+
+COCOAPODS: 1.9.0.beta.2
