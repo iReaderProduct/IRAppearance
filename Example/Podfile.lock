@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - IRAppearance (0.1.0)
+  - IRAppearance (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  IRAppearance: ef93bcbc9f7f8321267d62449aee49932d92d50e
+  IRAppearance: e17cdb12729cd3f43e9c58d12825cd9108f9440e
 
 PODFILE CHECKSUM: 169da4bcf21d5e3f2193fe3b0a931527bfcde6fa
 
